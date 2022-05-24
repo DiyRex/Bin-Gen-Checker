@@ -1,2 +1,2 @@
-# Bin-Gen-Checker
+# Bin-X
 Bincodes generate and check their validity 
