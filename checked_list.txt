@@ -1,0 +1,181 @@
+
+================================================================================
+BIN - 488501
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 462012
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - Russia
+                       Checked By Bin-X
+================================================================================
+BIN - 493557
+Type - Credit
+Brand - Visa
+Catergory - Classic
+Bank - Deutsche Bank S.P.A.
+Bank_URL - --
+Country - Italy
+                       Checked By Bin-X
+================================================================================
+BIN - 416486
+Type - Debit
+Brand - VISA
+Catergory - CLASSIC
+Bank - WELLS FARGO BANK, N.A.
+Bank_URL - https://www.wellsfargo.com/
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 496699
+Type - Credit
+Brand - Visa
+Catergory - Premier
+Bank - Credit Libanais S.A.L.
+Bank_URL - http://www.creditlibanais.com.lb/
+Country - Lebanon
+                       Checked By Bin-X
+================================================================================
+BIN - 474273
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - Poland
+                       Checked By Bin-X
+================================================================================
+BIN - 405139
+Type - 
+Brand - Visa
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 439182
+Type - Credit
+Brand - VISA
+Catergory - PLATINUM
+Bank - KRUNGTHAI CARD PUBLIC CO., LTD.
+Bank_URL - --
+Country - Thailand
+                       Checked By Bin-X
+================================================================================
+BIN - 428441
+Type - 
+Brand - Visa
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 443042
+Type - Debit
+Brand - VISA
+Catergory - CLASSIC
+Bank - PNC BANK, N.A.
+Bank_URL - https://www.pnc.com/
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 441742
+Type - Credit
+Brand - VISA
+Catergory - CLASSIC
+Bank - BANCO POPULAR Y DE DESARROLLO COMUNAL
+Bank_URL - https://www.bancopopular.fi.cr/
+Country - Costa Rica
+                       Checked By Bin-X
+================================================================================
+BIN - 491279
+Type - Debit
+Brand - VISA
+Catergory - CLASSIC
+Bank - HSBC MEXICO S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINAN
+Bank_URL - --
+Country - Mexico
+                       Checked By Bin-X
+================================================================================
+BIN - 491255
+Type - Credit
+Brand - Visa Visa.
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 482914
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 422991
+Type - Credit
+Brand - Visa
+Catergory - Premier
+Bank - New Orleans Firemen'S F.C.U.
+Bank_URL - https://www.noffcu.org/
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 463325
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 486963
+Type - 
+Brand - Visa
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 470651
+Type - Credit
+Brand - VISA
+Catergory - CLASSIC
+Bank - --
+Bank_URL - --
+Country - Nigeria
+                       Checked By Bin-X
+================================================================================
+BIN - 408964
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
+================================================================================
+BIN - 425929
+Type - --
+Brand - VISA
+Catergory - --
+Bank - --
+Bank_URL - --
+Country - United States
+                       Checked By Bin-X
